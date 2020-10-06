@@ -1,5 +1,7 @@
 # Traxx
 
+My attempt at reverse engineering Traxx by Llamasoft (Jeff Minter)
+
 .ASM files are 6502 assembely files in kick assembler format.
 
 .INF files are infultrater dissassembly files.
