@@ -1,5 +1,11 @@
 # Traxx
 
+With thanks to OSK (Old Skool Coder) i now have a working assmebly source code
+
+See OSK Folder and the source is TraXX_Kick.asm
+
+load into kick assembler and run on an 8K+ vic20
+
 My attempt at reverse engineering Traxx by Llamasoft (Jeff Minter)
 
 .ASM files are 6502 assembely files in kick assembler format.
