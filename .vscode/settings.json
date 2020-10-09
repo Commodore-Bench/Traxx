@@ -1,0 +1,5 @@
+{
+    "kickassembler.assemblerJar": "C:\\Users\\John\\Desktop\\C64\\KickAssembler\\KickAss_5.16.jar",
+    "kickassembler.emulatorRuntime": "C:\\Program Files\\WinVICE-3.1-x64\\xvic.exe",
+    "kickassembler.outputDirectory": "./bin"
+}
